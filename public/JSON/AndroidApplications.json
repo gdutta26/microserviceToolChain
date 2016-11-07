@@ -1,0 +1,201 @@
+{
+  "Category": "Android Applications",
+  "tableheader": [
+    {
+      "Practice Category": "Think",
+      "Practice": "Envisioning the user experience",
+      "Link": "",
+      "Current Tool": "Mural",
+      "Future Tool": "Mural"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "IBM Design Thinking",
+      "Link": "",
+      "Current Tool": "Mural",
+      "Future Tool": "Mural"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Personas",
+      "Link": "",
+      "Current Tool": "Mural",
+      "Future Tool": "Mural"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Minimum Viable Product (MVP)",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Iteration Planning",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "User Stories",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Wireframe Sketches",
+      "Link": "",
+      "Current Tool": "Mural",
+      "Future Tool": "Mural"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "User Experiments",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Designing for mobile",
+      "Link": "",
+      "Current Tool": "IBM Mobile Analytics for Bluemix,IBM Mobile Quality Assurance for Bluemix,IBM Mobile Client Access,Mural",
+      "Future Tool": "IBM Mobile Analytics for Bluemix,IBM Mobile Quality Assurance for Bluemix,IBM Mobile Client Access,Mural"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Mobile development planning",
+      "Link": "",
+      "Current Tool": "IBM Mobile Analytics for Bluemix,IBM Mobile Quality Assurance for Bluemix,IBM Mobile Client Access",
+      "Future Tool": "IBM Mobile Analytics for Bluemix,IBM Mobile Quality Assurance for Bluemix,IBM Mobile Client Access"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Estimation",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Extreme programming",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Continuous integration",
+      "Link": "",
+      "Current Tool": "GitHub (Hosted or github.com), Delivery Pipeline",
+      "Future Tool": "GitLab, Jenkins, Sonarqube, Application Security on Cloud"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Test-driven development",
+      "Link": "",
+      "Current Tool": "Web IDE (IBM Bluemix DevOps Services),Karma,SauceLabs",
+      "Future Tool": "Web IDE (IBM Bluemix DevOps Services),Karma,SauceLabs"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Automated testing",
+      "Link": "",
+      "Current Tool": "SauceLabs",
+      "Future Tool": "SauceLabs,Appium"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Performance Testing",
+      "Link": "",
+      "Current Tool": "Blaze Meter",
+      "Future Tool": "Blaze Meter"
+    },
+    {
+      "Practice Category": "Deliver",
+      "Practice": "Continuous delivery",
+      "Link": "",
+      "Current Tool": "Delivery Pipeline",
+      "Future Tool": "Artifactory, Urban Code Deploy"
+    },
+    {
+      "Practice Category": "Run",
+      "Practice": "Auto-scaling applications",
+      "Link": "",
+      "Current Tool": "Load Impact, Auto-Scaling",
+      "Future Tool": "Load Impact, Auto-Scaling"
+    },
+    {
+      "Practice Category": "Manage",
+      "Practice": "Automated monitoring",
+      "Link": "",
+      "Current Tool": "Mobile Quality Assurance, New Relic",
+      "Future Tool": "Mobile Quality Assurance, New Relic"
+    },
+    {
+      "Practice Category": "Manage",
+      "Practice": "The Circuit Breaker pattern",
+      "Link": "",
+      "Current Tool": "New Relic",
+      "Future Tool": "New Relic"
+    },
+    {
+      "Practice Category": "Learn",
+      "Practice": "A/B testing",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Learn",
+      "Practice": "Hypothesis-driven development",
+      "Link": "",
+      "Current Tool": "IBM Mobile Analytics for Bluemix",
+      "Future Tool": "IBM Mobile Analytics for Bluemix"
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Agile Principles",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Fun work Environment",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Failing fast",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Aligning development and operations for success",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Retrospective analysis",
+      "Link": "",
+      "Current Tool": "Mural",
+      "Future Tool": "Mural"
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Minimizing distractions",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    }
+  ]
+}

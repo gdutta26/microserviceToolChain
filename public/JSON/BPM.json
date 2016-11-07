@@ -1,0 +1,89 @@
+{
+  "Category": "BPM",
+  "tableheader": [
+    {
+      "Practice Category": "Think",
+      "Practice": "Iteration Planning",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "User Stories",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Think",
+      "Practice": "Estimation",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Continuous integration",
+      "Link": "",
+      "Current Tool": "GitHub (Hosted or github.com), Local Ant scripts",
+      "Future Tool": "GitLab, Jenkins, Apache ANT, BP3's Neeches for Analysis"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Automated testing",
+      "Link": "",
+      "Current Tool": "SOAPUI",
+      "Future Tool": "JMeter"
+    },
+    {
+      "Practice Category": "Code",
+      "Practice": "Performance Testing",
+      "Link": "",
+      "Current Tool": "Blaze Meter",
+      "Future Tool": "Blaze Meter"
+    },
+    {
+      "Practice Category": "Deliver",
+      "Practice": "Continuous delivery",
+      "Link": "",
+      "Current Tool": "Delivery Pipeline",
+      "Future Tool": "Artifactory, Urban Code Deploy"
+    },
+    {
+      "Practice Category": "Manage",
+      "Practice": "Automated monitoring",
+      "Link": "",
+      "Current Tool": "IBM Business Monitor",
+      "Future Tool": "IBM Business Monitor"
+    },
+    {
+      "Practice Category": "Manage",
+      "Practice": "Incident management",
+      "Link": "",
+      "Current Tool": "PagerDuty",
+      "Future Tool": "PagerDuty"
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Fun work Environment",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Aligning development and operations for success",
+      "Link": "",
+      "Current Tool": "",
+      "Future Tool": ""
+    },
+    {
+      "Practice Category": "Culture",
+      "Practice": "Minimizing distractions",
+      "Link": "",
+      "Current Tool": "Track & Plan",
+      "Future Tool": "Jira"
+    }
+  ]
+}

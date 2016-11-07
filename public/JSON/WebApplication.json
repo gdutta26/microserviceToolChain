@@ -1,0 +1,251 @@
+
+  {
+    "Category": "Web Application",
+    "tableheader": [
+      {
+        "Practice Category": "Think",
+        "Practice": "IBM Design Thinking",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_design_thinking/",
+        "Current Tool": "Mural",
+        "Future Tool": "Mural"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Minimum Viable Product (MVP)",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_minimum_viable_product/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Personas",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_personas/",
+        "Current Tool": "Mural",
+        "Future Tool": "Mural"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Iteration Planning",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_iteration_planning/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "User Stories",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_user_stories/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "User Experiments",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_run_user_experiments/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Wireframe Sketches",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_run_user_experiments/",
+        "Current Tool": "Mural",
+        "Future Tool": "Mural"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Evolutionary Architecture",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_evolutionary_architecture/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Data Design",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_data_design/",
+        "Current Tool": "IDA",
+        "Future Tool": "IDA"
+      },
+      {
+        "Practice Category": "Think",
+        "Practice": "Estimation",
+        "Link": "https://www.ibm.com/devops/method/content/think/practice_estimation/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Extreme programming",
+        "Link": "https://www.ibm.com/devops/method/content/code/method_extreme/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Automated testing",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_automated_testing/",
+        "Current Tool": "SauceLabs",
+        "Future Tool": "SauceLabs"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Test-driven development",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_test_driven_development/",
+        "Current Tool": "Web IDE (IBM Bluemix DevOps Services),Karma,SauceLabs",
+        "Future Tool": "Web IDE (IBM Bluemix DevOps Services),Karma,SauceLabs"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Refactoring",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_refactoring/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Iterative design",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_iterative_design/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Pair programming",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_pair_programming/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Continuous integration",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_continuous_integration/",
+        "Current Tool": "GitHub (Hosted or github.com), Delivery Pipeline",
+        "Future Tool": "GitLab, Jenkins"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Performance Testing",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_performance_testing/",
+        "Current Tool": "Blaze Meter",
+        "Future Tool": "Blaze Meter"
+      },
+      {
+        "Practice Category": "Code",
+        "Practice": "Build Verification Testing and Integration Verification Testing",
+        "Link": "https://www.ibm.com/devops/method/content/code/practice_bvt_and_ivt/",
+        "Current Tool": "SauceLabs",
+        "Future Tool": "SauceLabs"
+      },
+      {
+        "Practice Category": "Deliver",
+        "Practice": "Continuous delivery",
+        "Link": "https://www.ibm.com/devops/method/content/deliver/practice_continuous_delivery/",
+        "Current Tool": "Delivery Pipeline",
+        "Future Tool": "Urban Code Deploy"
+      },
+      {
+        "Practice Category": "Deliver",
+        "Practice": "Delivery pipeline",
+        "Link": "https://www.ibm.com/devops/method/content/deliver/practice_delivery_pipeline/",
+        "Current Tool": "Delivery Pipeline",
+        "Future Tool": "Urban Code Deploy"
+      },
+      {
+        "Practice Category": "Deliver",
+        "Practice": "Delivery pipeline",
+        "Link": "https://www.ibm.com/devops/method/content/deliver/practice_delivery_pipeline/",
+        "Current Tool": "Delivery Pipeline",
+        "Future Tool": "Urban Code Deploy"
+      },
+      {
+        "Practice Category": "Deliver",
+        "Practice": "Automated deployment",
+        "Link": "https://www.ibm.com/devops/method/content/deliver/practice_automated_deployment/",
+        "Current Tool": "Delivery Pipeline",
+        "Future Tool": "Urban Code Deploy"
+      },
+      {
+        "Practice Category": "Run",
+        "Practice": "Auto-scaling applications",
+        "Link": "https://www.ibm.com/devops/method/content/run/practice_autoscaling/",
+        "Current Tool": "Load Impact, Auto-Scaling",
+        "Future Tool": "Load Impact, Auto-Scaling"
+      },
+      {
+        "Practice Category": "Manage",
+        "Practice": "Automated monitoring",
+        "Link": "https://www.ibm.com/devops/method/content/manage/practice_automated_monitoring/",
+        "Current Tool": "Monitoring and Analytics",
+        "Future Tool": "Monitoring and Analytics"
+      },
+      {
+        "Practice Category": "Manage",
+        "Practice": "Automated monitoring",
+        "Link": "https://www.ibm.com/devops/method/content/manage/practice_incident_management/",
+        "Current Tool": "PagerDuty",
+        "Future Tool": "PagerDuty"
+      },
+      {
+        "Practice Category": "Learn",
+        "Practice": "A/B testing",
+        "Link": "https://www.ibm.com/devops/method/content/learn/practice_a_b_testing/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Learn",
+        "Practice": "Hypothesis-driven development",
+        "Link": "https://www.ibm.com/devops/method/content/learn/practice_a_b_testing/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Learn",
+        "Practice": "Hypothesis-driven development",
+        "Link": "https://www.ibm.com/devops/method/content/learn/practice_hypothesis_driven_development/",
+        "Current Tool": "",
+        "Future Tool": "Google Analytics"
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Agile Principles",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_agile_principles/",
+        "Current Tool": "",
+        "Future Tool": "Google Analytics"
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Fun work Environment",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_fun_work_environment/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Failing fast",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_failing_fast/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Aligning development and operations for success",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_aligning_dev_and_ops/",
+        "Current Tool": "",
+        "Future Tool": ""
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Retrospective analysis",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_retrospective_analysis/",
+        "Current Tool": "Mural",
+        "Future Tool": "Mural"
+      },
+      {
+        "Practice Category": "Culture",
+        "Practice": "Minimizing distractions",
+        "Link": "https://www.ibm.com/devops/method/content/culture/practice_minimizing_distractions/",
+        "Current Tool": "Track & Plan",
+        "Future Tool": "Jira"
+      }
+    ]
+  }
